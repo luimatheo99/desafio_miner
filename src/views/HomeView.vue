@@ -64,7 +64,7 @@ export default {
         });
       }
 
-      this.name = null;
+      this.name = "";
       this.height = null;
       this.weight = null;
     },
